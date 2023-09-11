@@ -19,6 +19,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
     - [Cost Model](#cost-model)
     - [SQL Embedding](#sql-embedding)
     - [Join Order](#join-order)
+      - [Survey](#survey-1)
     - [Query Rewrite](#query-rewrite)
   - [Database Traditional Technology](#database-traditional-technology)
     - [Learning-based Index Design](#learning-based-index-design)
@@ -100,6 +101,9 @@ If the paper has the open-souce code, please supply its github links in Meeting
 1. [Learning to Optimize Join queries With Deep Reinforcement Learning](https://arxiv.org/pdf/1808.03196.pdf) [SIGMOD 16]
 2. [Deep Reinforcement Learning for Join Order Enumeration](https://arxiv.org/pdf/1803.00055.pdf)[arXiv 18]
 3. [Reinforcement Learning with Tree-LSTM for Join Order Selection](https://qcai.qcri.org/ntang/pubs/icde20jos.pdf) [[ICDE 20](https://github.com/peiwangdb/JOS)]
+
+#### Survey
+1. [Join Order Selection with Deep Reinforcement Learning: Fundamentals, Techniques, and Challenges](https://www.vldb.org/pvldb/vol16/p3882-yan.pdf) [VLDB 23]
 
 ### Query Rewrite
 
