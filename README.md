@@ -89,7 +89,8 @@ If the paper has the open-souce code, please supply its github links in Meeting
 ### Cost Model
 
 1. [Cost-based or Learning-based? A Hybrid Query Optimizer for Query Plan Selection](https://www.vldb.org/pvldb/vol15/p3924-li.pdf) [[VLDB 22](https://github.com/yxfish13/HyperQO)]
-1. [Lero: A Learning-to-Rank Qery Optimizer](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf) [VLDB 23]
+2. [Lero: A Learning-to-Rank Qery Optimizer](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf) [VLDB 23]
+3. [COOOL: A Learning-To-Rank Approach for SQL Hint Recommendations](https://arxiv.org/pdf/2304.04407.pdf) [VLDB 23]
 
 ### SQL Embedding
 
