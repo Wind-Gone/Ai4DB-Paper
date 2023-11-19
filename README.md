@@ -58,7 +58,6 @@ If the paper has the open-souce code, please supply its github links in Meeting
 4. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www.fangwang.online/_files/ugd/5d2324_ddbbd368d939421e9f2b7295b919d90d.pdf) [[SIGMOD 23](https://github.com/Eilowangfang/LPCE)]
 5. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]
 6. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf) [ICDE 23]
-7. [ALECE: An Atention-based Learned Cardinality Estimator for SPJ Queries on Dynamic Workloads](https://www.vldb.org/pvldb/vol17/p197-li.pdf) [[VLDB 24](https://github.com/pfl-cs/ALECE)]
 
 #### Data-Driven
 
@@ -83,6 +82,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 #### Hybrid
 
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [[SIGMOD 21](https://github.com/pagegitss/UAE)]
+2. [ALECE: An Atention-based Learned Cardinality Estimator for SPJ Queries on Dynamic Workloads](https://www.vldb.org/pvldb/vol17/p197-li.pdf) [[VLDB 24](https://github.com/pfl-cs/ALECE)]
 
 ### Plan Hints
 
