@@ -1,0 +1,3 @@
+[submodule "STAT-Ai4CardinalityEstimation-CodeBase"]
+	path = STAT-Ai4CardinalityEstimation-CodeBase
+	url = git@github.com:Wind-Gone/STAT-Ai4CardinalityEstimation-CodeBase.git
