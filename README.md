@@ -15,7 +15,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
         - [Single-Table](#single-table-1)
         - [Multi-Tables](#multi-tables-1)
       - [Hybrid](#hybrid)
-    - [Plan Hints](#plan-hints)
+    - [Query Hints](#query-hints)
     - [Cost Model](#cost-model)
     - [SQL Embedding](#sql-embedding)
     - [Join Order](#join-order)
@@ -84,7 +84,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [[SIGMOD 21](https://github.com/pagegitss/UAE)]
 2. [ALECE: An Atention-based Learned Cardinality Estimator for SPJ Queries on Dynamic Workloads](https://www.vldb.org/pvldb/vol17/p197-li.pdf) [[VLDB 24](https://github.com/pfl-cs/ALECE)]
 
-### Plan Hints
+### Query Hints
 
 1. [Bao: Making Learned Query Optimization Practical](https://dl.acm.org/doi/pdf/10.1145/3448016.3452838) [SIMOD 21]
 2. [FASTgres: Making Learned Query Optimizer Hinting Effective](https://www.vldb.org/pvldb/vol16/p3310-habich.pdf) [VLDB 23]
@@ -108,7 +108,9 @@ If the paper has the open-souce code, please supply its github links in Meeting
 3. [Reinforcement Learning with Tree-LSTM for Join Order Selection](https://qcai.qcri.org/ntang/pubs/icde20jos.pdf) [[ICDE 20](https://github.com/peiwangdb/JOS)]
 4. [SkinnerDB: Regret-bounded Query Evaluation via Reinforcement Learning](https://arxiv.org/pdf/1901.05152.pdf) [TODS 21]
 5. [Efficient Join Order Selection Learning with Graph-based Representation](https://zheng-kai.com/paper/kdd_2022_chen.pdf) [SIGKDD 22]
-6. [ADOPT: Adaptively Optimizing Attribute Orders for Worst-Case Optimal Join Algorithms via Reinforcement Learning](https://www.vldb.org/pvldb/vol16/p2805-wang.pdf) [[VLDB 23](https://github.com/jxiw/ADOPT/blob/main/)]
+6. [Turbo-Charging SPJ Query Plans with Learned Physical Join Operator Selections](https://vldb.org/pvldb/vol15/p2706-hertzschuch.pdf) [[VLDB 22](https://github.com/axhertz/TONIC)]
+7. [ADOPT: Adaptively Optimizing Attribute Orders for Worst-Case Optimal Join Algorithms via Reinforcement Learning](https://www.vldb.org/pvldb/vol16/p2805-wang.pdf) [[VLDB 23](https://github.com/jxiw/ADOPT/blob/main/)]
+8. [LOGER: A Learned Optimizer towards Generating Efficient and Robust Query Execution Plans](https://www.vldb.org/pvldb/vol16/p1777-gao.pdf) [[VLDB 23](https://github.com/TianyiChen0316/LOGER)]
 
 #### Survey
 1. [Join Order Selection with Deep Reinforcement Learning: Fundamentals, Techniques, and Challenges](https://www.vldb.org/pvldb/vol16/p3882-yan.pdf) [VLDB 23]
