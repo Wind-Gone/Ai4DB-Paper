@@ -18,8 +18,9 @@ If the paper has the open-souce code, please supply its github links in Meeting
     - [Query Hints](#query-hints)
     - [Cost Model](#cost-model)
     - [SQL Embedding](#sql-embedding)
-    - [Join Order](#join-order)
       - [Survey](#survey-1)
+    - [Join Order](#join-order)
+      - [Survey](#survey-2)
     - [Query Rewrite](#query-rewrite)
     - [End-to-end Optimizer](#end-to-end-optimizer)
   - [Database Traditional Technology](#database-traditional-technology)
@@ -99,7 +100,10 @@ If the paper has the open-souce code, please supply its github links in Meeting
 ### SQL Embedding
 
 1. [PreQR: Pre-training Representation for SQL Understanding](https://dl.acm.org/doi/abs/10.1145/3514221.3517878) [SIGMOD 22]
-2. [LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod2022-sqlgen.pdf) (SIGMOD 2022)
+2. [LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod2022-sqlgen.pdf) (SIGMOD 22)
+
+#### Survey
+1. [A Comparative Study and Component Analysis of Query Plan Representation Techniques in ML4DB Studies](https://www.vldb.org/pvldb/vol17/p823-zhao.pdf) [[VLDB 23](https://github.com/zhaoyue-ntu/qp_evaluation/)]
 
 ### Join Order
 
