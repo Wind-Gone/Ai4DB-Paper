@@ -18,12 +18,12 @@ If the paper has the open-souce code, please supply its github links in Meeting
     - [Query Hints](#query-hints)
     - [Cost Model](#cost-model)
     - [SQL Embedding](#sql-embedding)
-      - [Survey](#survey-1)
     - [Join Order](#join-order)
-      - [Survey](#survey-2)
+      - [Survey](#survey-1)
     - [Query Rewrite](#query-rewrite)
     - [End-to-end Optimizer](#end-to-end-optimizer)
   - [Database Traditional Technology](#database-traditional-technology)
+    - [SQL Generation](#sql-generation)
     - [Learning-based Index Design](#learning-based-index-design)
       - [Single-dimensional](#single-dimensional)
       - [Multi-dimensional](#multi-dimensional)
@@ -100,10 +100,8 @@ If the paper has the open-souce code, please supply its github links in Meeting
 ### SQL Embedding
 
 1. [PreQR: Pre-training Representation for SQL Understanding](https://dl.acm.org/doi/abs/10.1145/3514221.3517878) [SIGMOD 22]
-2. [LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod2022-sqlgen.pdf) (SIGMOD 22)
-
-#### Survey
-1. [A Comparative Study and Component Analysis of Query Plan Representation Techniques in ML4DB Studies](https://www.vldb.org/pvldb/vol17/p823-zhao.pdf) [[VLDB 23](https://github.com/zhaoyue-ntu/qp_evaluation/)]
+2. [QueryFormer: A Tree Transformer Model for Query Plan Representation](https://www.vldb.org/pvldb/vol15/p1658-zhao.pdf) [[VLDB 22](https://github.com/zhaoyue-ntu/QueryFormer)]
+3. [A Comparative Study and Component Analysis of Query Plan Representation Techniques in ML4DB Studies](https://www.vldb.org/pvldb/vol17/p823-zhao.pdf) [[VLDB 23](https://github.com/zhaoyue-ntu/qp_evaluation/)]
 
 ### Join Order
 
@@ -129,6 +127,8 @@ If the paper has the open-souce code, please supply its github links in Meeting
 3. [Lemo: A Cache-Enhanced Learned Optimizer for Concurrent Queries](https://dl.acm.org/doi/pdf/10.1145/3626734) [SIGMOD 24]
 
 ## Database Traditional Technology
+### SQL Generation
+1. [LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod2022-sqlgen.pdf) (SIGMOD 22)
 
 ### Learning-based Index Design
 
