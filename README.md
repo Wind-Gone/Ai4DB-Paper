@@ -125,6 +125,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 1. [Neo: A Learned Query Optimizer](https://www.vldb.org/pvldb/vol12/p1705-marcus.pdf) [VLDB 19]
 2. [Balsa: Learning a Query Optimizer Without Expert Demonstrations](https://arxiv.org/pdf/2201.01441.pdf) [[SIGMOD 22](https://github.com/balsa-project/balsa)]
 3. [Lemo: A Cache-Enhanced Learned Optimizer for Concurrent Queries](https://dl.acm.org/doi/pdf/10.1145/3626734) [SIGMOD 24]
+4. [Eraser: Eliminating Performance Regression on Learned Qery Optimizer](https://www.vldb.org/pvldb/vol17/p926-zhu.pdf) [[VLDB 24](https://github.com/duoyw/Eraser)]
 
 ## Database Traditional Technology
 ### SQL Generation
