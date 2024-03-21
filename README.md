@@ -4,9 +4,10 @@
 
 A curated paper list of awesome AI4DB <b>databases, frameworks, ressources, tools</b> and other awesomeness, for data engineers.
 
-Welcom new PR, please conform to the commited rules:  paperName(with link) [MeetingName Year]
+Welcome new PR, please conform to the committed rules: paperName(with link) [MeetingName Year]
 
-If the paper has the open-souce code, please supply its github links in Meeting
+If the paper has the open-source code, please supply its github links in Meeting.
+</div>
 
 - [Awesome-AI4DB-Paper ](#awesome-ai4db-paper-)
   - [Learning-based Query Optimization](#learning-based-query-optimization)
