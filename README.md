@@ -1,10 +1,14 @@
-# AI4DB Paper Sets
+<div align="center">
+
+# Awesome-AI4DB-Paper [![666](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated paper list of awesome AI4DB <b>databases, frameworks, ressources, tools</b> and other awesomeness, for data engineers.
 
 Welcom new PR, please conform to the commited rules:  paperName(with link) [MeetingName Year]
 
 If the paper has the open-souce code, please supply its github links in Meeting
 
-- [AI4DB Paper Sets](#ai4db-paper-sets)
+- [Awesome-AI4DB-Paper ](#awesome-ai4db-paper-)
   - [Learning-based Query Optimization](#learning-based-query-optimization)
     - [Cardinality Estimation](#cardinality-estimation)
       - [Survey](#survey)
