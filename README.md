@@ -29,6 +29,7 @@ If the paper has the open-source code, please supply its github links in Meeting
     - [End-to-end Optimizer](#end-to-end-optimizer)
   - [Database Traditional Technology](#database-traditional-technology)
     - [SQL Generation](#sql-generation)
+    - [Data Generation](#data-generation)
     - [Learning-based Index Design](#learning-based-index-design)
       - [Single-dimensional](#single-dimensional)
       - [Multi-dimensional](#multi-dimensional)
@@ -137,6 +138,9 @@ If the paper has the open-source code, please supply its github links in Meeting
 ### SQL Generation
 1. [LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod2022-sqlgen.pdf) (SIGMOD 22)
 
+### Data Generation
+1. [Expand your Training Limits! Generating Training Data for ML-based Data Management](https://15799.courses.cs.cmu.edu/spring2022/papers/15-training/ventura-sigmod2021.pdf) [SIGMOD 21]
+
 ### Learning-based Index Design
 
 #### Single-dimensional
@@ -171,6 +175,7 @@ If the paper has the open-source code, please supply its github links in Meeting
 
 ## Query Processing
 1. [LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems](https://dl.acm.org/doi/pdf/10.1145/3514221.3526158) [SIGMOD 22]
+2. [LearnedWMP: Workload Memory Prediction Using Distribution of Query Templates](https://arxiv.org/pdf/2401.12103.pdf) [arXiv 24]
 
 ## Learning-based Configuration Advisor
 
@@ -195,6 +200,7 @@ If the paper has the open-source code, please supply its github links in Meeting
 17. [HMAB: Self-Driving Hierarchy of Bandits for Integrated Physical Database Design Tuning](https://www.vldb.org/pvldb/vol16/p216-perera.pdf) [[VLDB 22](https://github.com/malingaperera/HMAB)]
 18. [SmartIndex: An Index Advisor with Learned Cost Estimator](https://dl.acm.org/doi/abs/10.1145/3511808.3557163) [CIKM 22]
 19. [Learned Index Benefits: Machine Learning Based Index Performance Estimation](https://www.vldb.org/pvldb/vol15/p3950-shi.pdf) [[VLDB 23](https://github.com/JC-Shi/Learned-Index-Benefits)]
+20. [OptiQL: Robust Optimistic Locking for Memory-Optimized Indexes]() [SIGMOD 24]
 
 ## Database Self-Tuning
 
